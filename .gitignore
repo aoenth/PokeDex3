@@ -1,6 +1,7 @@
 /*/
 /*
+/.gitignore
+/PokeDex3/*.pbxproj
 
 !/PokeDex3
-.gitignore
-*.pbxproj
+
